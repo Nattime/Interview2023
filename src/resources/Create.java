@@ -47,7 +47,7 @@ public class Create{
         return binaryTreeHelper(arr);
     }
 
-    public static Node binaryTreeHelper(int[] arr){
+    private static Node binaryTreeHelper(int[] arr){
         Node root = new Node(arr[0]);
         Queue<Node> q = new LinkedList<>();
         q.add(root);
@@ -70,6 +70,38 @@ public class Create{
                     curr.setRight(n);
                     q.add(n);
                 }
+            }
+        }
+        return root;
+    }
+
+    /**
+     * Create a binary tree with the nodes in order in the array
+     * @param arr
+     * @return TreeNode
+     */
+    public static TreeNode createTreeNodeTree(int[] arr){
+        if(arr == null || arr.length < 1){
+            return null;
+        }
+        return binaryTreeNodeHelper(arr);
+    }
+
+    private static TreeNode binaryTreeNodeHelper(int[] arr){
+        TreeNode root = new TreeNode(arr[0]);
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        for(int i = 1; i < arr.length; i++){
+            TreeNode curr = q.poll();
+            TreeNode node = new TreeNode(arr[i]);
+            curr.left = node;
+            q.add(node);
+            i++;
+            if(i < arr.length){
+                TreeNode n = new TreeNode(arr[i]);
+                curr.right = n;
+                q.add(n);
             }
         }
         return root;
