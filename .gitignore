@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea/
 lib/
+Interview2023.iml
 
 ### Eclipse ###
 .apt_generated
