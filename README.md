@@ -7,3 +7,5 @@ LargestSubstringBetweenTwoEqualCharacters
 CountCompleteTreeNodes
 
 MaximumDepthOfNaryTree
+
+NaryTreePreorderTraversal
