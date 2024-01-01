@@ -77,6 +77,7 @@ public class Create{
 
     /**
      * Create a binary tree with the nodes in order in the array
+     *
      * @param arr
      * @return TreeNode
      */
@@ -103,6 +104,43 @@ public class Create{
                 curr.right = n;
                 q.add(n);
             }
+        }
+        return root;
+    }
+
+    /**
+     * Create a N-ary tree with the nodes in order in the array
+     *
+     * @param arr
+     * @return TreeNode
+     */
+    public static NaryNode createNaryTree(Integer[] arr){
+        if(arr == null || arr.length < 1){
+            return null;
+        }else if(arr.length <= 2){
+            return new NaryNode(arr[0]);
+        }
+        return naryNodeTreeHelper(arr);
+    }
+
+    private static NaryNode naryNodeTreeHelper(Integer[] arr){
+        NaryNode root = new NaryNode(arr[0]);
+        Queue<NaryNode> q = new LinkedList<>();
+        q.add(root);
+
+        for(int i = 2; i < arr.length; i++){
+            NaryNode curr = q.poll();
+            List<NaryNode> list = new LinkedList<>();
+            while(arr[i] != null){
+                NaryNode node = new NaryNode(arr[i]);
+                list.add(node);
+                q.add(node);
+                i++;
+                if(i >= arr.length){
+                    break;
+                }
+            }
+            curr.children = list;
         }
         return root;
     }

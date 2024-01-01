@@ -573,4 +573,37 @@ public class Print{
         }
         printExecutionTime();
     }
+
+    public static void print(NaryNode root){
+        print(root, false);
+    }
+
+    public static void print(NaryNode root, boolean inLine){
+        if(!isNull(root)){
+            startTime();
+            Queue<NaryNode> q = new LinkedList<>();
+            q.add(root);
+            while(!q.isEmpty()){
+                int size = q.size();
+                for(int i = 0; i < size; i++){
+                    NaryNode curr = q.remove();
+                    if(curr == null){
+                        System.out.print("N ");
+                    }else{
+                        System.out.print(curr.val + " ");
+                        if(curr.children == null || curr.children.isEmpty()){
+                            q.add(null);
+                        }else{
+                            List<NaryNode> list = curr.children;
+                            q.addAll(list);
+                        }
+                    }
+                }
+                if(!inLine){
+                    System.out.println();
+                }
+            }
+            printExecutionTime();
+        }
+    }
 }
