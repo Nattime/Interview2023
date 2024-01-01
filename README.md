@@ -5,3 +5,5 @@ TwoSum
 LargestSubstringBetweenTwoEqualCharacters
 
 CountCompleteTreeNodes
+
+MaximumDepthOfNaryTree
