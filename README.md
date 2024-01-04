@@ -9,3 +9,5 @@ CountCompleteTreeNodes
 MaximumDepthOfNaryTree
 
 NaryTreePreorderTraversal
+
+MinimumNumberOfOperationsToMakeArrayEmpty
