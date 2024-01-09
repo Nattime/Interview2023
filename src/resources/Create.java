@@ -88,6 +88,24 @@ public class Create{
         return binaryTreeNodeHelper(arr);
     }
 
+    public static TreeNode createTreeNodeTree(Integer[] arr){
+        if(arr == null || arr.length < 1){
+            return null;
+        }
+        List<Integer> list = new LinkedList<>();
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] != null){
+                list.add(arr[i]);
+            }
+        }
+        int a[] = new int[list.size()];
+        int i = 0;
+        for(int iter : list){
+            a[i++] = iter;
+        }
+        return binaryTreeNodeHelper(a);
+    }
+
     private static TreeNode binaryTreeNodeHelper(int[] arr){
         TreeNode root = new TreeNode(arr[0]);
         Queue<TreeNode> q = new LinkedList<>();
