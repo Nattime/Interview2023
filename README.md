@@ -17,3 +17,5 @@ ValidSudoku
 938 RangeSumOfBST
 
 11 ContainerWithMostWater
+
+567 PermutationInString
