@@ -25,3 +25,5 @@ ValidSudoku
 1657 DetermineIfTwoStringsAreClose
 
 155 MinStack
+
+2225 FindPlayersWithZeroOrOneLosses
