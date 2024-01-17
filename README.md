@@ -27,3 +27,5 @@ ValidSudoku
 155 MinStack
 
 2225 FindPlayersWithZeroOrOneLosses
+
+875 KokoEatingBananas
