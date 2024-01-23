@@ -33,3 +33,5 @@ ValidSudoku
 981 TimeBasedKeyValueStore
 
 70 ClimbingStairs
+
+104 MaximumDepthOfBinaryTree
