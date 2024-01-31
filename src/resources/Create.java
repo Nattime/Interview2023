@@ -92,18 +92,32 @@ public class Create{
         if(arr == null || arr.length < 1){
             return null;
         }
-        List<Integer> list = new LinkedList<>();
-        for(int i = 0; i < arr.length; i++){
-            if(arr[i] != null){
-                list.add(arr[i]);
+        TreeNode root = new TreeNode(arr[0]);
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        for(int i = 1; i < arr.length; i++){
+            TreeNode curr = q.poll();
+            if(arr[i] == null){
+                i++;
+                if(i < arr.length && arr[i] != null){
+                    TreeNode n = new TreeNode(arr[i]);
+                    curr.right = n;
+                    q.add(n);
+                }
+            }else{
+                TreeNode node = new TreeNode(arr[i]);
+                curr.left = node;
+                q.add(node);
+                i++;
+                if(i < arr.length){
+                    TreeNode n = new TreeNode(arr[i]);
+                    curr.right = n;
+                    q.add(n);
+                }
             }
         }
-        int a[] = new int[list.size()];
-        int i = 0;
-        for(int iter : list){
-            a[i++] = iter;
-        }
-        return binaryTreeNodeHelper(a);
+        return root;
     }
 
     private static TreeNode binaryTreeNodeHelper(int[] arr){
