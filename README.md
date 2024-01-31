@@ -47,3 +47,5 @@ ValidSudoku
 617 MergeTwoBinaryTrees
 
 102 BinaryTreeLevelOrderTraversal
+
+94 BinaryTreeInorderTraversal
