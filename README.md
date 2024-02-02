@@ -49,3 +49,5 @@ ValidSudoku
 102 BinaryTreeLevelOrderTraversal
 
 94 BinaryTreeInorderTraversal
+
+128 LongestConsecutiveSequence
