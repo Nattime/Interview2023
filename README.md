@@ -55,3 +55,5 @@ ValidSudoku
 98 ValidateBinarySearchTree
 
 145 BinaryTreePostorderTraversal
+
+144 BinaryTreePreorderTraversal
