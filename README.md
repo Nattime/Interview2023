@@ -57,3 +57,5 @@ ValidSudoku
 145 BinaryTreePostorderTraversal
 
 144 BinaryTreePreorderTraversal
+
+387 FirstUniqueCharacterInAString
