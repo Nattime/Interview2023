@@ -59,3 +59,5 @@ ValidSudoku
 144 BinaryTreePreorderTraversal
 
 387 FirstUniqueCharacterInAString
+
+169 MajorityElement
