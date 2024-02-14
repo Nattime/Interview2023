@@ -61,3 +61,5 @@ ValidSudoku
 387 FirstUniqueCharacterInAString
 
 169 MajorityElement
+
+279 PerfectSquares
