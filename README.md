@@ -65,3 +65,5 @@ ValidSudoku
 279 PerfectSquares
 
 2149 RearrangeArrayElementsBySign
+
+1481 LeastNumberOfUniqueIntegersAfterKRemovals
