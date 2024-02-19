@@ -67,3 +67,5 @@ ValidSudoku
 2149 RearrangeArrayElementsBySign
 
 1481 LeastNumberOfUniqueIntegersAfterKRemovals
+
+231 PowerOfTwo
