@@ -69,3 +69,5 @@ ValidSudoku
 1481 LeastNumberOfUniqueIntegersAfterKRemovals
 
 231 PowerOfTwo
+
+23 MergeKSortedLists
