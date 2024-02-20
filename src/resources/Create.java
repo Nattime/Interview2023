@@ -315,4 +315,22 @@ public class Create{
         }
         return head;
     }
+
+    private static ListNode[] createListNodeArrayHelper(int[][] list){
+        List<ListNode> arrayList = new ArrayList<>();
+        for(int[] outer : list){
+            ListNode head = Create.createListNode(outer);
+            arrayList.add(head);
+        }
+        ListNode[] ret = new ListNode[arrayList.size()];
+        int i = 0;
+        for(ListNode iter : arrayList){
+            ret[i++] = iter;
+        }
+        return ret;
+    }
+
+    public static ListNode[] createListNodeArray(int[][] list){
+        return createListNodeArrayHelper(list);
+    }
 }

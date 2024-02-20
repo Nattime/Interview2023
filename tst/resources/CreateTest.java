@@ -1,8 +1,9 @@
 package resources;
 
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 class CreateTest{
     private static Create test;
@@ -40,5 +41,36 @@ class CreateTest{
     void testNaryTreeTestCase5(){
         NaryNode head = Create.createNaryTree(null);
         Print.print(head);
+    }
+
+    @Test
+    void testCreateListNodeArray1(){
+        int[][] list = {{1, 4, 5}, {1, 3, 4}, {2, 6}};
+        ListNode[] input = Create.createListNodeArray(list);
+        Print.print(input);
+        ListNode[] output = new ListNode[3];
+        output[0] = Create.createListNode(new int[]{1, 4, 5});
+        output[1] = Create.createListNode(new int[]{1, 3, 4});
+        output[2] = Create.createListNode(new int[]{2, 6});
+        Print.print(output);
+        assertArrayEquals(input, output);
+    }
+
+    @Test
+    void testCreateListNodeArray2(){
+        int[][] list = {{}};
+        ListNode[] input = Create.createListNodeArray(list);
+        int[] arr1 = {};
+        ListNode[] output = new ListNode[1];
+        output[0] = Create.createListNode(arr1);
+        assertArrayEquals(input, output);
+    }
+
+    @Test
+    void testCreateListNodeArray3(){
+        int[][] list = {};
+        ListNode[] input = Create.createListNodeArray(list);
+        ListNode[] output = new ListNode[0];
+        assertArrayEquals(input, output);
     }
 }
