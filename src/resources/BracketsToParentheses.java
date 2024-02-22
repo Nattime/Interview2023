@@ -1,7 +1,7 @@
 package resources;
 
 public class BracketsToParentheses{
-    public String convert(String str){
+    public static String convert(String str){
         StringBuilder ret = new StringBuilder();
         for(int i = 0; i < str.length(); i++){
             char ch = str.charAt(i);
