@@ -71,3 +71,5 @@ ValidSudoku
 231 PowerOfTwo
 
 23 MergeKSortedLists
+
+997 FindTheTownJudge
