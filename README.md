@@ -73,3 +73,5 @@ ValidSudoku
 23 MergeKSortedLists
 
 997 FindTheTownJudge
+
+19 RemoveNthNodeFromEndOfList
