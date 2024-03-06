@@ -75,3 +75,5 @@ ValidSudoku
 997 FindTheTownJudge
 
 19 RemoveNthNodeFromEndOfList
+
+1750 MinimumLengthOfStringAfterDeletingSimilarEnds
