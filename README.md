@@ -77,3 +77,5 @@ ValidSudoku
 19 RemoveNthNodeFromEndOfList
 
 1750 MinimumLengthOfStringAfterDeletingSimilarEnds
+
+3005 CountElementsWithMaximumFrequency
