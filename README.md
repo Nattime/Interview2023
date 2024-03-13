@@ -81,3 +81,5 @@ ValidSudoku
 3005 CountElementsWithMaximumFrequency
 
 791 CustomSortString
+
+2485 FindThePivotInteger
