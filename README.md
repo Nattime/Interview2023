@@ -85,3 +85,5 @@ ValidSudoku
 2485 FindThePivotInteger
 
 525 ContiguousArray
+
+452 MinimumNumberOfArrowsToBurstBalloons
