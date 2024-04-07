@@ -97,3 +97,5 @@ ValidSudoku
 58 LengthOfLastWord
 
 1614 MaximumNestingDepthOfTheParentheses
+
+1249 MinimumRemoveToMakeValidParentheses
