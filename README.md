@@ -99,3 +99,5 @@ ValidSudoku
 1614 MaximumNestingDepthOfTheParentheses
 
 1249 MinimumRemoveToMakeValidParentheses
+
+2073 TimeNeededToBuyTickets
