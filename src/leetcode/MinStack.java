@@ -42,14 +42,14 @@ public class MinStack{
             return st.peek().min;
         }
     }
-}
 
-class Pair{
-    int val;
-    int min;
+    class Pair{
+        int val;
+        int min;
 
-    Pair(int val, int min){
-        this.val = val;
-        this.min = min;
+        Pair(int val, int min){
+            this.val = val;
+            this.min = min;
+        }
     }
 }
