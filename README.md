@@ -115,3 +115,5 @@ ValidSudoku
 1289 MinimumFallingPathSumII
 
 2997 MinimumNumberOfOperationsToMakeArrayXOREqualToK
+
+2000 ReversePrefixOfWord
