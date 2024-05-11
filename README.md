@@ -123,3 +123,5 @@ ValidSudoku
 237 DeleteNodeInALinkedList
 
 2816 DoubleANumberRepresentedAsALinkedList
+
+786 KthSmallestPrimeFraction
