@@ -125,3 +125,5 @@ ValidSudoku
 2816 DoubleANumberRepresentedAsALinkedList
 
 786 KthSmallestPrimeFraction
+
+861 ScoreAfterFlippingMatrix
