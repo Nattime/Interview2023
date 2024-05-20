@@ -129,3 +129,5 @@ ValidSudoku
 861 ScoreAfterFlippingMatrix
 
 2331 EvaluateBooleanBinaryTree
+
+1863 SumOfAllSubsetXORTotals
