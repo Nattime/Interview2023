@@ -1,8 +1,8 @@
 package leetcode;
 
+import com.resources.Create;
+import com.resources.ListNode;
 import org.junit.jupiter.api.Test;
-import resources.Create;
-import resources.ListNode;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

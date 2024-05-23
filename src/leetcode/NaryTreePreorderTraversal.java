@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.NaryNode;
+import com.resources.NaryNode;
 
 import java.util.LinkedList;
 import java.util.List;

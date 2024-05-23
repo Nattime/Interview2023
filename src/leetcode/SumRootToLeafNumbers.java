@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.TreeNode;
+import com.resources.TreeNode;
 
 /**
  * 129. Sum Root to Leaf Numbers

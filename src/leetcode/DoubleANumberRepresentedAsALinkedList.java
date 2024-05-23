@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.ListNode;
+import com.resources.ListNode;
 
 /**
  * 2816. Double a Number Represented as a Linked List

@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.ListNode;
+import com.resources.ListNode;
 
 /**
  * 237. Delete Node in a Linked List

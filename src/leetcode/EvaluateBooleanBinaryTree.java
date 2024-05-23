@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.TreeNode;
+import com.resources.TreeNode;
 
 /**
  * 2331. Evaluate Boolean Binary Tree

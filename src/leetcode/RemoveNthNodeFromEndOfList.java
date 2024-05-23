@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.ListNode;
+import com.resources.ListNode;
 
 /**
  * 19. Remove Nth Node From End of List

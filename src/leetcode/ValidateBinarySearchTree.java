@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.TreeNode;
+import com.resources.TreeNode;
 
 /**
  * 98. Validate Binary Search Tree

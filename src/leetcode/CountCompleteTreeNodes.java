@@ -1,9 +1,6 @@
 package leetcode;
 
-import resources.TreeNode;
-
-import java.util.LinkedList;
-import java.util.Queue;
+import com.resources.TreeNode;
 
 public class CountCompleteTreeNodes {
     public int countNodes(TreeNode root) {

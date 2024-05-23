@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.ListNode;
+import com.resources.ListNode;
 
 /**
  * 206. Reverse Linked List
@@ -16,7 +16,7 @@ import resources.ListNode;
  */
 public class ReverseLinkedList{
     public ListNode reverseList(ListNode head){
-        ListNode root = new ListNode();
+        ListNode root = new ListNode(0);
         ListNode trav = null;
         while(head != null){
             trav = head;

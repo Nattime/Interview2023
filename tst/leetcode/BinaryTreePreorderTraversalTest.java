@@ -1,8 +1,8 @@
 package leetcode;
 
+import com.resources.Create;
+import com.resources.TreeNode;
 import org.junit.jupiter.api.Test;
-import resources.Create;
-import resources.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

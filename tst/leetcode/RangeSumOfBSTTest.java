@@ -1,10 +1,10 @@
 package leetcode;
 
+import com.resources.Create;
+import com.resources.Print;
+import com.resources.TreeNode;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import resources.Create;
-import resources.Print;
-import resources.TreeNode;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -20,7 +20,7 @@ class RangeSumOfBSTTest{
     void TestCase1(){
         Integer num[] = new Integer[]{10, 5, 15, 3, 7, null, 18};
         TreeNode root = Create.createTreeNodeTree(num);
-        Print.printBinaryTree(root, false);
+        Print.printBinaryTree(root);
         assertEquals(test.rangeSumBST(root, 7, 15), 32);
     }
 
@@ -28,7 +28,7 @@ class RangeSumOfBSTTest{
     void TestCase2(){
         Integer num[] = new Integer[]{10, 5, 15, 3, 7, 13, 18, 1, null, 6};
         TreeNode root = Create.createTreeNodeTree(num);
-        Print.printBinaryTree(root, false);
+        Print.printBinaryTree(root);
         assertEquals(test.rangeSumBST(root, 6, 10), 23);
     }
 

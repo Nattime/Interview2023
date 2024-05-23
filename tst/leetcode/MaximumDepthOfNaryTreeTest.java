@@ -1,9 +1,9 @@
 package leetcode;
 
+import com.resources.Create;
+import com.resources.NaryNode;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import resources.Create;
-import resources.NaryNode;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

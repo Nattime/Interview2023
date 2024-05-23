@@ -1,6 +1,6 @@
 package leetcode;
 
-import resources.TreeNode;
+import com.resources.TreeNode;
 
 /**
  * 617. Merge Two Binary Trees

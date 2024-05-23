@@ -1,7 +1,7 @@
 package leetcode;
 
+import com.resources.Create;
 import org.junit.jupiter.api.Test;
-import resources.Create;
 
 import java.util.List;
 

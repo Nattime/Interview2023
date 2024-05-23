@@ -1,11 +1,10 @@
 package leetcode;
 
+import com.resources.Create;
+import com.resources.NaryNode;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import resources.Create;
-import resources.NaryNode;
-import resources.Print;
 
 import java.util.ArrayList;
 import java.util.Arrays;
