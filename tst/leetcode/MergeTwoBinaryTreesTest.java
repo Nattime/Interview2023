@@ -4,7 +4,7 @@ import com.resources.Create;
 import com.resources.TreeNode;
 import org.junit.jupiter.api.Test;
 
-import static resources.AssertTest.assertIsEqual;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MergeTwoBinaryTreesTest{
     private static MergeTwoBinaryTrees test;
@@ -19,7 +19,7 @@ class MergeTwoBinaryTreesTest{
         TreeNode root1 = Create.createTreeNodeTree(new Integer[]{1, 3, 2, 5});
         TreeNode root2 = Create.createTreeNodeTree(new Integer[]{2, 1, 3, null, 4, null, 7});
         TreeNode expected = Create.createTreeNodeTree(new Integer[]{3, 4, 5, 5, 4, null, 7});
-        assertIsEqual(test.mergeTrees(root1, root2), expected);
+        assertEquals(test.mergeTrees(root1, root2), expected);
     }
 
     @Test
@@ -27,7 +27,7 @@ class MergeTwoBinaryTreesTest{
         TreeNode root1 = Create.createTreeNodeTree(new Integer[]{1});
         TreeNode root2 = Create.createTreeNodeTree(new Integer[]{1, 2});
         TreeNode expected = Create.createTreeNodeTree(new Integer[]{2, 2});
-        assertIsEqual(test.mergeTrees(root1, root2), expected);
+        assertEquals(test.mergeTrees(root1, root2), expected);
     }
 
     @Test
