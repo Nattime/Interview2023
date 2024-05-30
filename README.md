@@ -133,3 +133,5 @@ ValidSudoku
 1863 SumOfAllSubsetXORTotals
 
 1208 GetEqualSubstringsWithinBudget
+
+1442 CountTripletsThatCanFormTwoArraysOfEqualXOR
