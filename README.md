@@ -139,3 +139,5 @@ ValidSudoku
 3110 ScoreOfAString
 
 2486 AppendCharactersToStringToMakeSubsequence
+
+1002 FindCommonCharacters
