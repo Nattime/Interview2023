@@ -145,3 +145,5 @@ ValidSudoku
 648 ReplaceWords
 
 1051 HeightChecker
+
+75 SortColors
