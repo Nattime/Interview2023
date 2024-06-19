@@ -151,3 +151,5 @@ ValidSudoku
 945 MinimumIncrementToMakeArrayUnique
 
 330 PatchingArray
+
+114 FlattenBinaryTreeToLinkedList
