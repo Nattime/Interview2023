@@ -153,3 +153,5 @@ ValidSudoku
 330 PatchingArray
 
 114 FlattenBinaryTreeToLinkedList
+
+1382 BalanceABinarySearchTree
