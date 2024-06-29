@@ -155,3 +155,5 @@ ValidSudoku
 114 FlattenBinaryTreeToLinkedList
 
 1382 BalanceABinarySearchTree
+
+2192 AllAncestorsOfANodeInADirectedAcyclicGraph
