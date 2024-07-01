@@ -157,3 +157,5 @@ ValidSudoku
 1382 BalanceABinarySearchTree
 
 2192 AllAncestorsOfANodeInADirectedAcyclicGraph
+
+1550 ThreeConsecutiveOdds
