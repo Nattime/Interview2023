@@ -161,3 +161,5 @@ ValidSudoku
 1550 ThreeConsecutiveOdds
 
 2058 FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints
+
+2196 CreateBinaryTreeFromDescriptions
