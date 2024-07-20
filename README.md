@@ -167,3 +167,5 @@ ValidSudoku
 1190 ReverseSubstringsBetweenEachPairOfParentheses
 
 1530 NumberOfGoodLeafNodesPairs
+
+1605 FindValidMatrixGivenRowAndColumnSums
