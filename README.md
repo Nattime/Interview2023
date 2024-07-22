@@ -169,3 +169,5 @@ ValidSudoku
 1530 NumberOfGoodLeafNodesPairs
 
 1605 FindValidMatrixGivenRowAndColumnSums
+
+2418 SortThePeople
