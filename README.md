@@ -173,3 +173,5 @@ ValidSudoku
 2418 SortThePeople
 
 2191 SortTheJumbledNumbers
+
+1334 FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance
