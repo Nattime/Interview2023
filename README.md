@@ -175,3 +175,5 @@ ValidSudoku
 2191 SortTheJumbledNumbers
 
 1334 FindTheCityWithTheSmallestNumberOfNeighborsAtAThresholdDistance
+
+1395 CountNumberOfTeams
