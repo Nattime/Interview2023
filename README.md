@@ -179,3 +179,5 @@ ValidSudoku
 1395 CountNumberOfTeams
 
 2678 NumberOfSeniorCitizens
+
+1460 MakeTwoArraysEqualByReversingSubarrays
