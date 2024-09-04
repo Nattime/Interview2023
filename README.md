@@ -201,3 +201,5 @@ ValidSudoku
 1544 MakeTheStringGreat
 
 860 LemonadeChange
+
+1945 SumOfDigitsOfStringAfterConvert
