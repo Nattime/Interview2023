@@ -209,3 +209,5 @@ ValidSudoku
 725 SplitLinkedListInParts
 
 2807 InsertGreatestCommonDivisorsInLinkedList
+
+1310 XORQueriesOfASubarray
