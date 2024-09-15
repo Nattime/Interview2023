@@ -211,3 +211,5 @@ ValidSudoku
 2807 InsertGreatestCommonDivisorsInLinkedList
 
 1310 XORQueriesOfASubarray
+
+1371 FindTheLongestSubstringContainingVowelsInEvenCounts
