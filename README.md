@@ -213,3 +213,5 @@ ValidSudoku
 1310 XORQueriesOfASubarray
 
 1371 FindTheLongestSubstringContainingVowelsInEvenCounts
+
+1684 CountTheNumberOfConsistentStrings
