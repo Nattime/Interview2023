@@ -215,3 +215,5 @@ ValidSudoku
 1371 FindTheLongestSubstringContainingVowelsInEvenCounts
 
 1684 CountTheNumberOfConsistentStrings
+
+2220 MinimumBitFlipsToConvertNumber
