@@ -221,3 +221,5 @@ ValidSudoku
 884 UncommonWordsFromTwoSentences
 
 241 DifferentWaysToAddParentheses
+
+386 LexicographicalNumbers
