@@ -223,3 +223,5 @@ ValidSudoku
 241 DifferentWaysToAddParentheses
 
 386 LexicographicalNumbers
+
+3043 FindTheLengthOfTheLongestCommonPrefix
