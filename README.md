@@ -225,3 +225,5 @@ ValidSudoku
 386 LexicographicalNumbers
 
 3043 FindTheLengthOfTheLongestCommonPrefix
+
+139 WordBreak
