@@ -231,3 +231,5 @@ ValidSudoku
 729 MyCalendarI
 
 641 DesignCircularDeque
+
+1381 DesignAStackWithIncrementOperation
