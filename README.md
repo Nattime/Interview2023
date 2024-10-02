@@ -233,3 +233,5 @@ ValidSudoku
 641 DesignCircularDeque
 
 1381 DesignAStackWithIncrementOperation
+
+1331 RankTransformOfAnArray
