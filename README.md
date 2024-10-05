@@ -235,3 +235,5 @@ ValidSudoku
 1381 DesignAStackWithIncrementOperation
 
 1331 RankTransformOfAnArray
+
+2491 DividePlayersIntoTeamsOfEqualSkill
