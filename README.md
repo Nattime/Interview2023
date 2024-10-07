@@ -237,3 +237,5 @@ ValidSudoku
 1331 RankTransformOfAnArray
 
 2491 DividePlayersIntoTeamsOfEqualSkill
+
+2696 MinimumStringLengthAfterRemovingSubstrings
