@@ -239,3 +239,5 @@ ValidSudoku
 2491 DividePlayersIntoTeamsOfEqualSkill
 
 2696 MinimumStringLengthAfterRemovingSubstrings
+
+921 MinimumAddToMakeParenthesesValid
