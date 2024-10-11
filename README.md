@@ -241,3 +241,5 @@ ValidSudoku
 2696 MinimumStringLengthAfterRemovingSubstrings
 
 921 MinimumAddToMakeParenthesesValid
+
+1942 TheNumberOfTheSmallestUnoccupiedChair
