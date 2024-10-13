@@ -243,3 +243,5 @@ ValidSudoku
 921 MinimumAddToMakeParenthesesValid
 
 1942 TheNumberOfTheSmallestUnoccupiedChair
+
+632 SmallestRangeCoveringElementsFromKLists
