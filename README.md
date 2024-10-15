@@ -245,3 +245,5 @@ ValidSudoku
 1942 TheNumberOfTheSmallestUnoccupiedChair
 
 632 SmallestRangeCoveringElementsFromKLists
+
+2938 SeparateBlackAndWhiteBalls
