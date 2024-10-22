@@ -247,3 +247,5 @@ ValidSudoku
 632 SmallestRangeCoveringElementsFromKLists
 
 2938 SeparateBlackAndWhiteBalls
+
+2583 KthLargestSumInABinaryTree
