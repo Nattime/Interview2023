@@ -249,3 +249,5 @@ ValidSudoku
 2938 SeparateBlackAndWhiteBalls
 
 2583 KthLargestSumInABinaryTree
+
+951 FlipEquivalentBinaryTrees
