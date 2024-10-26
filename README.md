@@ -251,3 +251,5 @@ ValidSudoku
 2583 KthLargestSumInABinaryTree
 
 951 FlipEquivalentBinaryTrees
+
+2458 HeightOfBinaryTreeAfterSubtreeRemovalQueries
