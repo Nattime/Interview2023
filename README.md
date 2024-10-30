@@ -253,3 +253,5 @@ ValidSudoku
 951 FlipEquivalentBinaryTrees
 
 2458 HeightOfBinaryTreeAfterSubtreeRemovalQueries
+
+1963 MinimumNumberOfSwapsToMakeTheStringBalanced
