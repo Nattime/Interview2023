@@ -257,3 +257,5 @@ ValidSudoku
 1963 MinimumNumberOfSwapsToMakeTheStringBalanced
 
 1122 RelativeSortArray
+
+2490 CircularSentence
