@@ -261,3 +261,5 @@ ValidSudoku
 2490 CircularSentence
 
 3163 StringCompressionIII
+
+2914 MinimumNumberOfChangesToMakeBinaryStringBeautiful
