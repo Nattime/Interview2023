@@ -265,3 +265,5 @@ ValidSudoku
 2914 MinimumNumberOfChangesToMakeBinaryStringBeautiful
 
 3011 FindIfArrayCanBeSorted
+
+796 RotateString
