@@ -267,3 +267,5 @@ ValidSudoku
 3011 FindIfArrayCanBeSorted
 
 796 RotateString
+
+1957 DeleteCharactersToMakeFancyString
