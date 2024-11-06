@@ -263,3 +263,5 @@ ValidSudoku
 3163 StringCompressionIII
 
 2914 MinimumNumberOfChangesToMakeBinaryStringBeautiful
+
+3011 FindIfArrayCanBeSorted
