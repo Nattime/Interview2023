@@ -271,3 +271,5 @@ ValidSudoku
 1957 DeleteCharactersToMakeFancyString
 
 2275 LargestCombinationWithBitwiseANDGreaterThanZero
+
+1829 MaximumXORForEachQuery
