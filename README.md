@@ -273,3 +273,5 @@ ValidSudoku
 2275 LargestCombinationWithBitwiseANDGreaterThanZero
 
 1829 MaximumXORForEachQuery
+
+3133 MinimumArrayEnd
