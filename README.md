@@ -279,3 +279,5 @@ ValidSudoku
 2461 MaximumSumOfDistinctSubarraysWithLengthK
 
 1652 DefuseTheBomb
+
+2563 CountTheNumberOfFairPairs
