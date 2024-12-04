@@ -283,3 +283,5 @@ ValidSudoku
 2563 CountTheNumberOfFairPairs
 
 1455 CheckIfAWordOccursAsAPrefixOfAnyWordInASentence
+
+2825 MakeStringASubsequenceUsingCyclicIncrements
