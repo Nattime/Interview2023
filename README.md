@@ -285,3 +285,5 @@ ValidSudoku
 1455 CheckIfAWordOccursAsAPrefixOfAnyWordInASentence
 
 2825 MakeStringASubsequenceUsingCyclicIncrements
+
+2554 MaximumNumberOfIntegersToChooseFromARangeI
