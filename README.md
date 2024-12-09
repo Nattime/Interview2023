@@ -287,3 +287,5 @@ ValidSudoku
 2825 MakeStringASubsequenceUsingCyclicIncrements
 
 2554 MaximumNumberOfIntegersToChooseFromARangeI
+
+3152 SpecialArrayII
