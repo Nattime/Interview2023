@@ -289,3 +289,5 @@ ValidSudoku
 2554 MaximumNumberOfIntegersToChooseFromARangeI
 
 3152 SpecialArrayII
+
+2779 MaximumBeautyOfAnArrayAfterApplyingOperation
