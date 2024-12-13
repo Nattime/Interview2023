@@ -291,3 +291,5 @@ ValidSudoku
 3152 SpecialArrayII
 
 2779 MaximumBeautyOfAnArrayAfterApplyingOperation
+
+2593 FindScoreOfAnArrayAfterMarkingAllElements
