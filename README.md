@@ -293,3 +293,5 @@ ValidSudoku
 2779 MaximumBeautyOfAnArrayAfterApplyingOperation
 
 2593 FindScoreOfAnArrayAfterMarkingAllElements
+
+3264 FinalArrayStateAfterKMultiplicationOperationsI
