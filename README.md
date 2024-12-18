@@ -295,3 +295,5 @@ ValidSudoku
 2593 FindScoreOfAnArrayAfterMarkingAllElements
 
 3264 FinalArrayStateAfterKMultiplicationOperationsI
+
+1475 FinalPricesWithASpecialDiscountInAShop
