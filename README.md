@@ -297,3 +297,5 @@ ValidSudoku
 3264 FinalArrayStateAfterKMultiplicationOperationsI
 
 1475 FinalPricesWithASpecialDiscountInAShop
+
+1014 BestSightseeingPair
