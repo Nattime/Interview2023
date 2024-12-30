@@ -299,3 +299,5 @@ ValidSudoku
 1475 FinalPricesWithASpecialDiscountInAShop
 
 1014 BestSightseeingPair
+
+2466 CountWaysToBuildGoodStrings
