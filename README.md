@@ -301,3 +301,5 @@ ValidSudoku
 1014 BestSightseeingPair
 
 2466 CountWaysToBuildGoodStrings
+
+2559 CountVowelStringsInRanges
