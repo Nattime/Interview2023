@@ -303,3 +303,5 @@ ValidSudoku
 2466 CountWaysToBuildGoodStrings
 
 2559 CountVowelStringsInRanges
+
+3223 MinimumLengthOfStringAfterOperations
