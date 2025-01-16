@@ -305,3 +305,5 @@ ValidSudoku
 2559 CountVowelStringsInRanges
 
 3223 MinimumLengthOfStringAfterOperations
+
+2425 BitwiseXOROfAllPairings
