@@ -313,3 +313,5 @@ ValidSudoku
 3105 LongestStrictlyIncreasingOrStrictlyDecreasingSubarray
 
 1752 CheckIfArrayIsSortedAndRotated
+
+3151 SpecialArrayI
