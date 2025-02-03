@@ -309,3 +309,5 @@ ValidSudoku
 2425 BitwiseXOROfAllPairings
 
 3 LongestSubstringWithoutRepeatingCharacters
+
+3105 LongestStrictlyIncreasingOrStrictlyDecreasingSubarray
