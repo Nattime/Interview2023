@@ -311,3 +311,5 @@ ValidSudoku
 3 LongestSubstringWithoutRepeatingCharacters
 
 3105 LongestStrictlyIncreasingOrStrictlyDecreasingSubarray
+
+1752 CheckIfArrayIsSortedAndRotated
