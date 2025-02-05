@@ -315,3 +315,5 @@ ValidSudoku
 1752 CheckIfArrayIsSortedAndRotated
 
 3151 SpecialArrayI
+
+1790 CheckIfOneStringSwapCanMakeStringsEqual
