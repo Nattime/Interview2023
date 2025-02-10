@@ -317,3 +317,5 @@ ValidSudoku
 3151 SpecialArrayI
 
 1790 CheckIfOneStringSwapCanMakeStringsEqual
+
+3174 ClearDigits
