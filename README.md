@@ -319,3 +319,5 @@ ValidSudoku
 1790 CheckIfOneStringSwapCanMakeStringsEqual
 
 3174 ClearDigits
+
+2342 MaxSumOfAPairWithEqualSumOfDigits
