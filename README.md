@@ -321,3 +321,5 @@ ValidSudoku
 3174 ClearDigits
 
 2342 MaxSumOfAPairWithEqualSumOfDigits
+
+3191 MinimumOperationsToMakeBinaryArrayElementsEqualToOneI
